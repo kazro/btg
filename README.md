@@ -31,7 +31,7 @@ $ pkg install pip
 $ pkg install pip2
 $ pip2 install requests
 $ pip2 install mechanize
-$ git clone https://github.com/botomehedi/btg
+$ git clone https://github.com/botolmehedi/btg
 ```
 ## Install on Terminal :
 ```
