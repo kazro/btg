@@ -1,9 +1,9 @@
 <p align="left"> 
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
-<p align="center"><a href="https://gitlab.com/botolbaba/bind"><img title="BTG" src="https://gitlab.com/BotolBaba/btg/uploads/7c3bfd4ece63677acbc2bbc7d2dddc28/20200910_110334.jpg"></a>
-<p align="center"><a href="https://gitlab.com/botolbaba"><img title="Author" src="https://img.shields.io/badge/Author-Botol--Baba-red.svg?style=for-the-badge&logo=github"></a></p>
-<p align="center"><a href="https://gitlab.com/botolbaba/followers"><img title="Followers" src="https://img.shields.io/github/followers/botolmehedi?color=blue&style=flat-square"></a> <a href="https://www.youtube.com/mastertrick1"><img title="Youtube" src="https://img.shields.io/badge/YOUTUBE-%40mastertrick1-red?style=flat-square&logo=youtube"></a> <a href="https://www.facebook.com/groups/231747098048450"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat-square&logo=messenger"></a></p>
+<p align="center"><a href="https://github.com/botolmehedi/bind"><img title="BTG" src="https://gitlab.com/BotolBaba/btg/uploads/7c3bfd4ece63677acbc2bbc7d2dddc28/20200910_110334.jpg"></a>
+<p align="center"><a href="https://github.com/botolmehedi"><img title="Author" src="https://img.shields.io/badge/Author-Botol--Baba-red.svg?style=for-the-badge&logo=github"></a></p>
+<p align="center"><a href="https://github.com/botolmehedi/followers"><img title="Followers" src="https://img.shields.io/github/followers/botolmehedi?color=blue&style=flat-square"></a> <a href="https://www.youtube.com/mastertrick1"><img title="Youtube" src="https://img.shields.io/badge/YOUTUBE-%40mastertrick1-red?style=flat-square&logo=youtube"></a> <a href="https://www.facebook.com/groups/231747098048450"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat-square&logo=messenger"></a></p>
 
 <h1 align="center">BTG 1.0</h1>
 <p align="center">      TELEGRAM AUTO MEMBER ADDER & SCRAPER </p>
@@ -31,7 +31,7 @@ $ pkg install pip
 $ pkg install pip2
 $ pip2 install requests
 $ pip2 install mechanize
-$ git clone https://gitlab.com/botolbaba/btg
+$ git clone https://github.com/botomehedi/btg
 ```
 ## Install on Terminal :
 ```
@@ -44,7 +44,7 @@ $ apt install pip
 $ apt install pip2
 $ pip2 install requests
 $ pip2 install mechanize
-$ git clone https://gitlab.com/botolbaba/btg
+$ git clone https://github.com/botolmehedi/btg
 ```
 ## Tools SETUP :
 ```
