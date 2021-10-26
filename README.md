@@ -72,11 +72,8 @@ $ python2 btg.py
 $ REPLY 4
 $ Follow The Instructions. Or Contact Us On Facebook.
 ```
-
-## FULL VIDEO TUTORIAL
-[![Watch the video](https://img.youtube.com/vi/etGXuCXa4y4/maxresdefault.jpg)](https://youtu.be/etGXuCXa4y4)
-
-* Tools Username / Passwords : https://www.facebook.com/groups/231747098048450/permalink/275501883672971/
+##
+* Username & Passwords : [Show](https://botolmehedi.github.io/tools.html)
 
 ## ***Follow Me***
 
